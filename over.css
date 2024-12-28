@@ -1,19 +1,6 @@
 body {
     background-color: #090051;
 }
-H1 {
-    color: beige;
-    font-family: Andale Mono, monospace;
-    font-size: 4vw;
-    text-align: center;
-}
-hr {
-  height: 0.5vw;
-  border-width: 0;
-  color: beige;
-  background-color: beige;
-  width: 75%;
-}
 .profile {
   float: left;
   text-align: left;
