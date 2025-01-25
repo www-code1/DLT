@@ -9,6 +9,8 @@ body {
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  display: flex;
+  align-items: centre;
 }
 
 /* Style the links inside the navigation bar */
@@ -26,6 +28,7 @@ body {
 .topnav a:hover {
   background-color: #0f0099;
   color: beige;
+  transform: scale(1.1);
 }
 
 /* Add a color to the active/current link */
@@ -37,6 +40,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 150%;
     color: beige;
+    text-align: centre;
 }
 H1 {
     font-family: Arial, Helvetica, sans-serif;
@@ -46,8 +50,21 @@ H1 {
 }
 .Geschiedenis {
     background-color: #040020;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
     padding: 0.5%;
     margin-top: 0.5%;
+}
+
+footer {
+    background-color: #000000;
+    color: beige;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 3%;
+    opacity: 0.7;
 }
