@@ -1,64 +1,101 @@
+/* Algemene stijlen */
 body {
     background-color: #090051;
-    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-family: Andale Mono, monospace;
 }
-H1 {
+
+h1 {
     color: beige;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 300%;
+    font-size: 3rem;
     text-align: center;
 }
+
+p {
+    color: beige;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
 hr {
-  height: 0.5vw;
-  border-width: 0;
-  color: beige;
-  background-color: beige;
-  width: 75%;
+    height: 0.5rem;
+    border-width: 0;
+    color: beige;
+    background-color: beige;
+    width: 75%;
+    margin: 1rem auto;
 }
-.profile {
-  float: left;
-  text-align: left;
+
+img {
+    display: block;
+    margin: 2rem auto;
 }
-/* Add a black background color to the top navigation */
+
+/* Header-stijlen */
 .topnav {
-  background-color: #000000;
-  overflow: hidden;
+    background-color: #000000;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
 }
 
-/* Style the links inside the navigation bar */
+.topnav img {
+    margin-right: 1rem;
+    width: 40px;
+    height: 40px;
+}
+
 .topnav a {
-  float: left;
-  color: beige;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 60%;
-  font-family: Arial, Helvetica, sans-serif;
+    flex: 1;
+    color: beige;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: background-color 0.3s, transform 0.3s;
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #0f0099;
-  color: beige;
+    background-color: #0f0099;
+    transform: scale(1.1);
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #282168;
-  color: beige;
+    background-color: #282168;
 }
+
+/* Footer-stijlen */
+footer {
+    background-color: #000000;
+    color: beige;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/* Content */
+.content {
+    padding: 2rem;
+    text-align: center;
+}
+
 .groepsfoto {
-  width: 80%;
-  height: 80%;
-  margin-top: 10px;
-  margin-left: 10%;
-  margin-right: 10%;
+    width: 50%;
+    height: auto;
+    animation: fadeIn 2s ease-in-out;
 }
- 
- .text {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 150%;
-  color: beige;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
- }
+
+/* Animaties */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
