@@ -1,6 +1,5 @@
 body {
     background-color: #090051;
-    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 H1 {
@@ -9,9 +8,6 @@ H1 {
     font-size: 300%;
     text-align: center;
 }
-p {
-    color: beige;
-    text-align: centre;
 hr {
   height: 0.5vw;
   border-width: 0;
@@ -27,16 +23,14 @@ hr {
 .topnav {
   background-color: #000000;
   overflow: hidden;
-  display: flex;
-  align-items: centre;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  flex: 1;
+  float: left;
   color: beige;
   text-align: center;
-  padding: 1rem;
+  padding: 14px 16px;
   text-decoration: none;
   font-size: 60%;
   font-family: Arial, Helvetica, sans-serif;
@@ -59,7 +53,6 @@ hr {
   margin-top: 10px;
   margin-left: 10%;
   margin-right: 10%;
-  animation: fadeIn 2s ease-in-out;
 }
  
  .text {
