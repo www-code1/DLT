@@ -9,6 +9,8 @@ body {
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  display: flex;
+  align-items: centre;
 }
 
 /* Style the links inside the navigation bar */
@@ -26,10 +28,24 @@ body {
 .topnav a:hover {
   background-color: #0f0099;
   color: beige;
+  transform: scale(1.1);
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #282168;
   color: beige;
+}
+
+footer {
+    background-color: #000000;
+    color: beige;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 3%;
+    opacity: 0.7;
 }
