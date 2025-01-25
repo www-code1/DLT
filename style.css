@@ -42,7 +42,7 @@ hr {
 .topnav a:hover {
   background-color: #0f0099;
   color: beige;
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 /* Add a color to the active/current link */
