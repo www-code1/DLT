@@ -70,10 +70,10 @@ footer {
     background-color: #000000;
     color: beige;
     text-align: center;
-    padding: 1rem 0;
-    font-size: 1rem;
+    padding: 1% 0;
+    font-size: 50%;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 110%;
 }
 
