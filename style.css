@@ -71,6 +71,7 @@ footer {
     color: beige;
     text-align: center;
     font-size: 100%;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
