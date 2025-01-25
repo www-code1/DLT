@@ -23,6 +23,7 @@ hr {
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  align-items: centre;
 }
 
 /* Style the links inside the navigation bar */
