@@ -23,6 +23,7 @@ hr {
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  display: flex;
   align-items: centre;
 }
 
