@@ -85,8 +85,11 @@ footer {
 }
 
 .groepsfoto {
-    width: 50%;
-    height: auto;
+    width: 80%;
+    height: 80%;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
     animation: fadeIn 2s ease-in-out;
 }
 
