@@ -25,6 +25,7 @@ hr {
   overflow: hidden;
   display: flex;
   align-items: centre;
+  padding: 0.5rem;
 }
 
 /* Style the links inside the navigation bar */
