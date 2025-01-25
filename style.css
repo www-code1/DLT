@@ -30,7 +30,7 @@ hr {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  flex: 1;
+  flex: 0.1;
   color: beige;
   text-align: center;
   padding: 14px 16px;
