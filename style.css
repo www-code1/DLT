@@ -25,7 +25,6 @@ hr {
   overflow: hidden;
   display: flex;
   align-items: centre;
-  padding: 0.5rem;
 }
 
 /* Style the links inside the navigation bar */
@@ -43,6 +42,7 @@ hr {
 .topnav a:hover {
   background-color: #0f0099;
   color: beige;
+  transform: scale(1.1);
 }
 
 /* Add a color to the active/current link */
