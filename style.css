@@ -65,3 +65,15 @@ hr {
   margin-left: 12.5%;
   margin-right: 12.5%;
  }
+
+footer {
+    background-color: #000000;
+    color: beige;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
