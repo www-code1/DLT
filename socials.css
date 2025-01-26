@@ -2,7 +2,7 @@ body {
     background-color: #090051;
     font-family: Arial, Helvetica, sans-serif;
     color: beige;
-    min-height: 99vh;
+    min-height: 90vh;
     display: flex;
     flex-direction: column;
     cursor:default;
