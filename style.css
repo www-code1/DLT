@@ -76,6 +76,7 @@ footer {
     text-align: center;
     padding: 1rem 0;
     font-size: 1rem;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100vw;
