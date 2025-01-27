@@ -77,4 +77,5 @@ footer {
             width: 100%; /* Ensure it takes full width */ 
             left: 0; /* Align to the left */ 
             right: 0; /* Align to the right */
+            position: fixed;
 }
