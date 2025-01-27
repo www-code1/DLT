@@ -47,7 +47,7 @@ a {
 }
 #page-container {
   position: relative;
-  min-height: 97vh;
+  min-height: 100vh;
 }
 
 #content-wrap {
