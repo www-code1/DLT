@@ -28,7 +28,7 @@ hr {
   overflow: hidden;
   display: flex;
   align-items: centre;
-}
+  vertical-align: middle;
 
 /* Style the links inside the navigation bar */
 .topnav a {
