@@ -19,11 +19,15 @@ hr {
 .profile {
   float: left;
   text-align: left;
+  max-height: 40px;
+  max-width: 40px;
 }
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  display: flex;
+  align-items: centre;
 }
 
 /* Style the links inside the navigation bar */
