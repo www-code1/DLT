@@ -71,15 +71,10 @@ hr {
  }
 
 footer {
-    background-color: #000000;
-    color: beige;
-    text-align: center;
-    padding: 1rem 0;
-    font-size: 1rem;
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100vw;
-    margin-top: 3%;
-    opacity: 0.7;
+            background-color: #f8f9fa; /* Optional: Background color */ 
+            padding: 20px 0; /* Optional: Padding */ 
+            position: relative; /* Optional: For positioning */ 
+            width: 100%; /* Ensure it takes full width */ 
+            left: 0; /* Align to the left */ 
+            right: 0; /* Align to the right */
 }
