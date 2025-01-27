@@ -47,7 +47,7 @@ a {
 }
 #page-container {
   position: relative;
-  min-height: 100vh;
+  min-height: 97vh;
 }
 
 #content-wrap {
@@ -66,6 +66,7 @@ a {
   color: beige;
   font-size: 100%;
   opacity: 0.7;
+  height: 2.5rem;
 }
 a img{
 max-width: 23%;
