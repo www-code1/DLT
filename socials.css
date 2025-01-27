@@ -47,11 +47,11 @@ a {
 }
 #page-container {
   position: relative;
-  min-height: 100vh;
+  min-height: 97vh;
 }
 
 #content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
+  padding-bottom: 0rem;    /* Footer height */
 }
 
 #footer {
