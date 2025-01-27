@@ -71,9 +71,9 @@ hr {
  }
 
 footer {
-            background-color: #f8f9fa; /* Optional: Background color */ 
-            padding: 20px 0; /* Optional: Padding */ 
-            position: relative; /* Optional: For positioning */ 
+            background-color: #000000; /* Optional: Background color */ 
+            padding: 20px 0;
+            color: beige;
             width: 100%; /* Ensure it takes full width */ 
             left: 0; /* Align to the left */ 
             right: 0; /* Align to the right */
