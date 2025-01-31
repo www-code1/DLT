@@ -50,10 +50,6 @@ a {
   min-height: 97vh;
 }
 
-#content-wrap {
-  padding-bottom: 0;    /* Footer height */
-}
-
 #footer {
   background-color: black;
   position: absolute;
