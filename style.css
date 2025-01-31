@@ -27,6 +27,7 @@ hr {
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  color: beige;
 }
 
 /* Style the links inside the navigation bar */
@@ -88,6 +89,7 @@ footer {
   .topnav a.icon {
     float: right;
     display: block;
+    color: beige;
   }
 }
 
@@ -97,6 +99,7 @@ footer {
     position: absolute;
     right: 0;
     top: 0;
+    color: beige;
   }
   .topnav.responsive a {
     float: none;
