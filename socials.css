@@ -45,20 +45,6 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     color: beige;
 }
-footer {
-    background-color: #000000;
-    text-align: center;
-    padding: 1rem 0;
-    color: beige;
-    width: 100%;
-    left: 0;
-    right: 0;
-    position: absolute;
-    font-size: 100%;
-    margin-top: 3%;
-    opacity: 0.7;
-
-}
 a img{
 max-width: 23%;
 max-height: 23%;
