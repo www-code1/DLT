@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>DLT.com | socials</title>
     <link rel="stylesheet" type="text/css" href="./socials.css">
     <link rel="icon" href="./DLT-64px-round.png">
@@ -18,6 +19,8 @@
         <a href="./actueel.html"><b>ACTUEEL</b></a>
         <a href="./beleving-van-de-cast.html"><b>BELEVINGEN</b></a>
         <a class="active" href="./socials.html"><b>SOCIALS</b></a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
      </div>
     </header>
 <center>
@@ -33,5 +36,15 @@
     <footer id="footer">
         <p>&copy; 2025 Drachtster Lyceum Theater.</p>
     </footer>
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
 </body>
 </html>
