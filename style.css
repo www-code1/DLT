@@ -92,7 +92,7 @@ footer {
 
 }
 @media screen and (max-width: 600px) {
-  .topnav a #text {display: none;}
+  .topnav #text {display: none;}
   .topnav img {display: none;}
   .topnav a.icon {
     float: right;
