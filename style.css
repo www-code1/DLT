@@ -116,7 +116,7 @@ footer {
     top: 0;
     color: beige;
   }
-  .topnav.responsive #text, .active {
+  .topnav.responsive #text, #tekst {
     float: none;
     display: block;
     text-align: left;
