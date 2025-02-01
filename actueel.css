@@ -13,7 +13,7 @@ body {
 .topnav {
   background-color: #000000;
   overflow: hidden;
-  display: flex;
+  color: beige;
 }
 
 /* Style the links inside the navigation bar */
@@ -70,7 +70,6 @@ footer {
   .topnav a.icon {
     float: right;
     display: block;
-    text-align: right;
   }
 }
 
