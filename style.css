@@ -95,7 +95,7 @@ footer {
   .topnav #text {display: none;}
   .topnav img {display: none;}
   .topnav a.icon {
-    position: absolute;
+    position: relative;
     right: 0;
     top: 0;
   }
