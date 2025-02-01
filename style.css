@@ -95,7 +95,8 @@ footer {
   .topnav #text {display: none;}
   .topnav img {display: none;}
   .topnav a.icon {
-    float: right;
+    text-align: right;
+    float: none;
     display: block;
     color: beige;
     text-align: center;
@@ -115,8 +116,6 @@ footer {
     right: 0;
     top: 0;
     color: beige;
-    float: none;
-    display: block;
     
   }
   .topnav.responsive #text, #tekst {
