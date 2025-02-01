@@ -95,17 +95,15 @@ footer {
   .topnav #text {display: none;}
   .topnav img {display: none;}
   .topnav a.icon {
-    text-align: right;
-    float: none;
+    float: right;
     display: block;
     color: beige;
     text-align: center;
   }
-  .topnav img.profile {
-      float: left;
-      text-align: left;
-      max-height: 40px;
-      max-width: 40px;
+  .topnav #tekst {
+    float: none;
+    display: block;
+    text-align: left;
   }
 }
 
