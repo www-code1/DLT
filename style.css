@@ -42,7 +42,10 @@ hr {
 
 
 .topnav #text {
-  padding: 0px 0px;
+  padding: 14px 16px;
+}
+img {
+    text-decoration: None;
 }
 
 
