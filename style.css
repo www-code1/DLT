@@ -113,5 +113,6 @@ footer {
     float: none;
     display: block;
     text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
   }
 }
