@@ -17,6 +17,8 @@
         <a class="active" href="./actueel.html"><b>ACTUEEL</b></a>
         <a href="./beleving-van-de-cast.html"><b>BELEVINGEN</b></a>
         <a href="./socials.html"><b>SOCIALS</b></a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
       </div>
     </header>
 <div class="geleend">
@@ -90,5 +92,16 @@
     <footer>
         <p>&copy; 2025 Drachtster Lyceum Theater.</p>
     </footer>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
 </body>
 </html>
