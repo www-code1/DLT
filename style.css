@@ -116,6 +116,8 @@ footer {
     top: 0;
     color: beige;
     float: none;
+    display: block;
+    
   }
   .topnav.responsive #text, #tekst {
     float: none;
