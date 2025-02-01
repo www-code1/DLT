@@ -39,6 +39,9 @@ body {
   background-color: #282168;
   color: beige;
 }
+.topnav .icon {
+  display: none;
+}
 .geleend {
     margin-left: 5%;
     margin-right: 5%;
