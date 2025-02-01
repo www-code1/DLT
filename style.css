@@ -98,6 +98,12 @@ footer {
     color: beige;
     text-align: center;
   }
+  .topnav img.profile {
+      float: left;
+      text-align: left;
+      max-height: 40px;
+      max-width: 40px;
+  }
 }
 
 @media screen and (max-width: 600px) {
