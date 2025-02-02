@@ -58,9 +58,11 @@ footer {
 }
 .Beleving1 {
     margin-right: 50%;
+    text-align: left;
 }
 .Beleving2 {
     margin-left: 50%;
+    text-align: right;
 }
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 600px) {
