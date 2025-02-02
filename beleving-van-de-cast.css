@@ -42,6 +42,19 @@ body {
 .topnav .icon {
   display: none;
 }
+.box-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.box { 
+  flex: 1;
+  margin: 10px;
+  padding: 10px;
+  
+}
+#box{
+    display: flex;
+}
 footer {
     background-color: #000000;
     text-align: center;
