@@ -58,11 +58,12 @@ footer {
 }
 .Beleving1 {
     text-align: left;
-    margin-right: 50%
+    max-width: 50%;
 }
 .Beleving2 {
     text-align: right;
-    margin-left: 50%
+    max-width: 50%;
+    
 }
 .alle belevingen {
     display: flex;
