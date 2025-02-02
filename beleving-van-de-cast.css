@@ -3,6 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     cursor:default;
     color: beige;
+    font-size: 70%;
 }
 .profile {
   float: left;
@@ -60,7 +61,7 @@ footer {
 .Beleving2 {
     margin-top: 2%;
     display: inline-block;
-    text-align: right;
+    text-align: left;
     float: right;
     max-width: 49%;
 }
