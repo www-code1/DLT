@@ -87,11 +87,12 @@ footer {
   }
   .Beleving1 {
       display: inline-grid;
-      max-width: 80%;
+      max-width: 90%;
   }
   .Beleving2 {
       display: inline-grid;
-      max-width: 80%;
+      max-width: 90%;
+      float: left
   }
   .alle belevingen {
       margin: 0 manual;
