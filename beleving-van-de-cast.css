@@ -86,11 +86,11 @@ footer {
     display: block;
   }
   .Beleving1 {
-      display: block;
+      display: grid;
       max-width: 80l
   }
   .Beleving2 {
-      display: block;
+      display: grid;
       max-width: 80l
   }
 }
