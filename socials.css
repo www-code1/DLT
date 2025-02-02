@@ -50,6 +50,7 @@ a {
 #page-container {
   position: relative;
   min-height: 97vh;
+  max-height: 100vh;
 }
 
 #footer {
