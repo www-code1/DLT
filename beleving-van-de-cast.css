@@ -58,20 +58,20 @@ footer {
 }
 .Beleving2 {
     display: inline-block;
-    text-align: left;
+    text-align: right;
     float: right;
     max-width: 50%;
 }
 .Beleving1 {
     display: inline-block;
-    text-align: right;
+    text-align: left;
     float: left;
     max-width: 50%;
     
 }
 .alle belevingen {
     width: 100%;
-    margin-top: 2%
+    margin-top: 10%
 ]
 }
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
