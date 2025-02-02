@@ -86,12 +86,15 @@ footer {
     display: block;
   }
   .Beleving1 {
-      display: grid;
+      display: inline-grid;
       max-width: 80l
   }
   .Beleving2 {
-      display: grid;
+      display: inline-grid;
       max-width: 80l
+  }
+  .alle belevingen {
+      margin: 0;
   }
 }
 
