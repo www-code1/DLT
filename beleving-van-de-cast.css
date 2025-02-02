@@ -42,6 +42,16 @@ body {
 .topnav .icon {
   display: none;
 }
+#box{
+    width: 175px; 
+            height: 175px;
+}
+
+#right {
+    font-size: 40px;
+    text-align: right;
+    float: right;
+}
 .box-wrapper {
   display: flex;
   justify-content: space-around;
