@@ -58,14 +58,14 @@ footer {
     display: none;
 }
 .Beleving2 {
-    margin-top: 2%;
+    margin-top: 3%;
     display: inline-block;
     text-align: left;
     float: right;
     max-width: 49%;
 }
 .Beleving1 {
-    margin-top: 2%;
+    margin-top: 3%;
     display: inline-block;
     text-align: left;
     float: left;
@@ -87,11 +87,11 @@ footer {
   }
   .Beleving1 {
       display: inline-grid;
-      max-width: 90%;
+      max-width: 95%;
   }
   .Beleving2 {
       display: inline-grid;
-      max-width: 90%;
+      max-width: 95%;
       float: left
   }
   .alle belevingen {
