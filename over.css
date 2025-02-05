@@ -45,7 +45,7 @@ body {
 .text {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 150%;
-    color: beige;
+    color: black;
     text-align: center;
 }
 H1 {
@@ -55,7 +55,7 @@ H1 {
     text-align: center;
 }
 .Geschiedenis {
-    background-color: #040020;
+    background-color: CadetBlue;
     margin-right: 2%;
     margin-left: 2%;
     padding: 1%;
@@ -63,7 +63,7 @@ H1 {
     text-align: center;
 }
 .dit_jaar {
-    background-color: #040020;
+    background-color: CadetBlue;
     margin-right: 2%;
     margin-left: 2%;
     padding: 1%;
