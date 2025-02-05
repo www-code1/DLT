@@ -63,6 +63,8 @@ footer {
     text-align: left;
     float: right;
     max-width: 49%;
+    backgroundcolor: BlanchedAlmond;
+    color: black;
 }
 .Beleving1 {
     margin-top: 3%;
@@ -70,7 +72,8 @@ footer {
     text-align: left;
     float: left;
     max-width: 49%;
-    
+    backgroundcolor: BlanchedAlmond;  
+    color: black;
 }
 .alle belevingen {
     margin: 0 auto;
